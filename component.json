@@ -1,0 +1,12 @@
+{
+  "name": "json",
+  "repo": "component/json",
+  "description": "JSON parser / stringifier polyfill",
+  "version": "0.0.1",
+  "keywords": ["json"],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
