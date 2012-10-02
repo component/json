@@ -1,6 +1,2 @@
 
-try {
-  module.exports = require('component-json-polyfill');
-} catch (err) {
-  module.exports = JSON;
-}
+module.exports = window.JSON || require('json-polyfill');

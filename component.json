@@ -7,7 +7,7 @@
   "dependencies": {},
   "development": {},
   "optional": {
-    "component/json-polyfill": "*"
+    "component/json-fallback": "*"
   },
   "scripts": [
     "index.js"
