@@ -6,6 +6,9 @@
   "keywords": ["json"],
   "dependencies": {},
   "development": {},
+  "optional": {
+    "component/json-polyfill": "*"
+  },
   "scripts": [
     "index.js"
   ]
