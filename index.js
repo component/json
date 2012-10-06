@@ -1,2 +1,4 @@
 
-module.exports = window.JSON || require('json-polyfill');
+module.exports = 'undefined' == typeof JSON
+  ? require('json-fallback')
+  : JSON;
