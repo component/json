@@ -2,7 +2,7 @@
   "name": "json-component",
   "repo": "component/json",
   "description": "JSON parser / stringifier",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": ["json"],
   "dependencies": {},
   "development": {},

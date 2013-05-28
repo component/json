@@ -1,4 +1,4 @@
 
 module.exports = 'undefined' == typeof JSON
-  ? require('json-fallback')
+  ? require('component-json-fallback')
   : JSON;
