@@ -3,12 +3,18 @@
   "repo": "component/json",
   "description": "JSON parser / stringifier",
   "version": "0.0.2",
-  "keywords": ["json"],
+  "keywords": [
+    "json"
+  ],
   "dependencies": {},
   "development": {},
   "component": {
     "scripts": {
       "json": "index.js"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component/json.git"
   }
 }
