@@ -4,11 +4,10 @@
   "description": "JSON parser / stringifier",
   "version": "0.0.2",
   "keywords": ["json"],
-  "dependencies": {},
-  "development": {},
-  "optional": {
+  "dependencies": {
     "component/json-fallback": "*"
   },
+  "development":{},
   "scripts": [
     "index.js"
   ]
